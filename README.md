@@ -39,17 +39,24 @@ This repository contains:
 
 ### 📋 Detailed Rule Documents ([rules/](./rules/))
 - **01-prompts.md** ✅ Complete - Prompt Engineering (Rules 1-10)
-- **02-10-*.md** 📝 Placeholders - Other rule categories
+- **02-architecture.md** ✅ Complete - Architecture & Design (Rules 11-18)
+- **03-security.md** ✅ Complete - Security (Rules 19-28)
+- **04-testing.md** ✅ Complete - Code Quality & Testing (Rules 29-42)
+- **05-file-structure.md** ✅ Complete - File Org & Review (Rules 43-50)
+- **06-version-control.md** ✅ Complete - Version Control (Rules 51-54)
+- **07-10-*.md** 📝 Placeholders - Frontend, Backend, Growth, Integrations
 
 ### 📝 Prompt Templates ([prompts/templates/](./prompts/templates/))
 - **backend-starter.md** ✅ Complete - REST API template
-- **frontend-component.md** 📝 Placeholder - UI component template
-- **integration-builder.md** 📝 Placeholder - Third-party integration template
-- **growth-playbook.md** 📝 Placeholder - Marketing/SEO template
+- **frontend-component.md** ✅ Complete - UI component template
+- **integration-builder.md** ✅ Complete - Third-party integration template
+- **growth-playbook.md** ✅ Complete - Marketing/SEO template
 
 ### 🔄 Workflows ([workflows/](./workflows/))
-- Step-by-step guides for common AI-assisted development tasks
-- API generation, landing pages, integrations, content creation
+- **api-generator.md** ✅ Complete - REST API generation (30-60 min)
+- **landing-page-builder.md** ✅ Complete - Landing pages (45 min)
+- **slack-bot-builder.md** ✅ Complete - Slack integration (60 min)
+- **seo-content-generator.md** ✅ Complete - SEO content (30 min)
 
 ### 💡 Examples ([examples/](./examples/))
 - Real-world projects built following these rules

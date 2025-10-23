@@ -220,14 +220,23 @@ chmod +x .git/hooks/pre-commit
 - [rules/01-prompts.md](./rules/01-prompts.md) ✅ - Prompt engineering (Rules 1-10)
 - [rules/02-architecture.md](./rules/02-architecture.md) ✅ - Architecture (Rules 11-18)
 - [rules/03-security.md](./rules/03-security.md) ✅ - Security (Rules 19-28)
-- [rules/04-testing.md](./rules/04-testing.md) 📝 - Testing (Rules 37-42)
-- [rules/05-file-structure.md](./rules/05-file-structure.md) 📝 - File org (Rules 43-46)
-- [rules/06-10-*.md](./rules/) 📝 - Additional categories
+- [rules/04-testing.md](./rules/04-testing.md) ✅ - Code quality & Testing (Rules 29-42)
+- [rules/05-file-structure.md](./rules/05-file-structure.md) ✅ - File org & Review (Rules 43-50)
+- [rules/06-version-control.md](./rules/06-version-control.md) ✅ - Version control (Rules 51-54)
+- [rules/07-frontend.md](./rules/07-frontend.md) 📝 - Frontend development
+- [rules/08-backend.md](./rules/08-backend.md) 📝 - Backend development
+- [rules/09-growth.md](./rules/09-growth.md) 📝 - Growth & marketing
+- [rules/10-integrations.md](./rules/10-integrations.md) 📝 - Integrations
 
 ### Prompt Templates & Workflows
 - [prompts/templates/backend-starter.md](./prompts/templates/backend-starter.md) ✅ - Complete API template
-- [prompts/templates/](./prompts/templates/) 📝 - 3 placeholder templates
-- [workflows/](./workflows/) 📝 - 4 workflow guides
+- [prompts/templates/frontend-component.md](./prompts/templates/frontend-component.md) ✅ - Complete component template
+- [prompts/templates/integration-builder.md](./prompts/templates/integration-builder.md) ✅ - Complete integration template
+- [prompts/templates/growth-playbook.md](./prompts/templates/growth-playbook.md) ✅ - Complete growth template
+- [workflows/api-generator.md](./workflows/api-generator.md) ✅ - Complete API workflow
+- [workflows/landing-page-builder.md](./workflows/landing-page-builder.md) ✅ - Complete landing page workflow
+- [workflows/slack-bot-builder.md](./workflows/slack-bot-builder.md) ✅ - Complete Slack bot workflow
+- [workflows/seo-content-generator.md](./workflows/seo-content-generator.md) ✅ - Complete SEO workflow
 
 ### Examples & Tools
 - [examples/](./examples/) 📝 - 4 example project structures
