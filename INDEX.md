@@ -404,7 +404,7 @@ A: [RULES_ONE_PAGE.md](./RULES_ONE_PAGE.md)
 
 ---
 
-**Last Updated:** 2025-01-15
+**Last Updated:** 2025-10-15
 
 **Total Rules:** 54
 **Documentation Pages:** 10+

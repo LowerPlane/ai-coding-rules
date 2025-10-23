@@ -315,6 +315,6 @@ npm run audit-security    # Security audit
 
 ---
 
-**Last Updated: 2025-01-15**
+**Last Updated: 2025-10-15**
 
 **For full details, see: [README.md](./README.md)**

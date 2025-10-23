@@ -76,7 +76,7 @@ METHOD /api/v1/resource
   "data": {
     "id": "uuid",
     "field1": "value",
-    "createdAt": "2025-01-15T10:30:00Z"
+    "createdAt": "2025-10-15T10:30:00Z"
   }
 }
 ```

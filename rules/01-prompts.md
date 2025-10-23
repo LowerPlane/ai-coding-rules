@@ -150,7 +150,7 @@ Success (201):
     "id": "uuid",
     "email": "user@example.com",
     "name": "John Doe",
-    "createdAt": "2025-01-15T10:30:00Z"
+    "createdAt": "2025-10-15T10:30:00Z"
   }
 }
 
